@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d2b6b,100:1e90ff&height=200&section=header&text=Hey%20There%2C%20I'm%20Debashis&fontSize=42&fontColor=00d9ff&animation=fadeIn&fontAlignY=40&desc=GOING%20%20CRAZY%20%20OVER%20TECH%20%F0%9F%92%BB&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d2b6b,100:1e90ff&height=200&section=header&text=Hey%20There%2C%20I'm%20Debashis&fontSize=42&fontColor=00d9ff&animation=fadeIn&fontAlignY=40&desc=Compiling%20code%20in%20the%20real%20world%20%F0%9F%92%BB&descAlignY=62&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=1E90FF&background=00000000&center=true&vCenter=true&width=650&lines=Full-Stack+%2F+Cloud+Developer;ML+%26+Data+Enthusiast;Compiling...+Please+Wait...;Welcome+to+the+Matrix+%F0%9F%9F%A2" alt="Typing SVG" />
@@ -10,27 +10,18 @@
 
 <br/>
 
-## LETS TALK ABOUT ME ...
+## 🤖 Currently Building...
 
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td width="55%" valign="middle">
 
-```ansi
-[1;32m🔭  Currently building projects across web, cloud & ML[0m
-[1;34m🌱  Always leveling up my stack — new tools, new problems[0m
-[1;31m⚡  Fun fact: I debug better after 11 PM[0m
-[1;32m📫  Reach me through the socials below[0m
-```
+### I turn blank files into things that run — one piece at a time, like a robot on an assembly line.
 
-```yaml
-name: Debashis
-role: Software / Cloud Developer
-focus: [Full-Stack Development, Cloud Architecture, Machine Learning]
-currently_exploring: "new frameworks & AI tooling"
-fun_fact: "I debug better after 11 PM 🌙"
-status: "> compiling reality.exe"
-```
+- 🔭&nbsp;&nbsp;Building across web, cloud & ML
+- 🌱&nbsp;&nbsp;Always leveling up my stack
+- ⚡&nbsp;&nbsp;Best code happens after 11 PM
+- 📫&nbsp;&nbsp;Let's connect below
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -135,24 +126,24 @@ status: "> compiling reality.exe"
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x200/0d1117/1E90FF?text=Certificate+1" width="100%"/>
-<br/><b>🔵 Certificate / Award Title</b>
-<br/><sub>Issuer · Year</sub>
+<img src="assets/achievements/oracle-genai-professional.png" width="100%"/>
+<br/><b>🔵 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional</b>
+<br/><sub>Oracle University · Aug 26, 2025</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x200/0d1117/00FF41?text=Certificate+2" width="100%"/>
-<br/><b>🟢 Certificate / Award Title</b>
-<br/><sub>Issuer · Year</sub>
+<img src="assets/achievements/oracle-ai-vector-search-professional.png" width="100%"/>
+<br/><b>🟢 Oracle AI Vector Search Certified Professional</b>
+<br/><sub>Oracle University · Sep 09, 2025</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://via.placeholder.com/300x200/0d1117/FF3131?text=Certificate+3" width="100%"/>
-<br/><b>🔴 Certificate / Award Title</b>
-<br/><sub>Issuer · Year</sub>
+<img src="assets/achievements/oracle-data-science-professional.png" width="100%"/>
+<br/><b>🔴 Oracle Cloud Infrastructure 2025 Certified Data Science Professional</b>
+<br/><sub>Oracle University · Sep 12, 2025</sub>
 </td>
 </tr>
 </table>
 
-<sub><i>these three tiles are placeholders — upload your actual certificate/award screenshots to this repo (e.g. an <code>/assets/achievements/</code> folder) and swap each <code>via.placeholder.com</code> URL for <code>https://raw.githubusercontent.com/Debashis/&lt;repo&gt;/main/assets/achievements/your-image.png</code>. Add or remove <code>&lt;td&gt;</code> cells to match how many you have.</i></sub>
+<sub><i>these images live in <code>assets/achievements/</code> right next to this README — commit that folder along with README.md to your profile repo and they'll render exactly like this on your GitHub profile. Add more <code>&lt;td&gt;</code> cells the same way for future certifications.</i></sub>
 
 </div>
 
@@ -184,11 +175,9 @@ status: "> compiling reality.exe"
 
 ## 📄 Resume
 
-<a href="REPLACE_WITH_YOUR_RESUME_LINK" target="_blank">
+<a href="https://drive.google.com/file/d/174ruG0RzcIi9EqEoTIEKMEPpBU629aRo/view?usp=drivesdk" target="_blank">
   <img src="https://img.shields.io/badge/📄_CHECK_OUT_MY_RESUME-000000?style=for-the-badge&logoColor=1E90FF&labelColor=000000&color=1e90ff" />
 </a>
-
-<sub><i>swap <code>REPLACE_WITH_YOUR_RESUME_LINK</code> for a real link — a Google Drive "anyone with the link" share, a PDF committed to this repo (e.g. <code>/resume.pdf</code>), or a page on your portfolio site all work.</i></sub>
 
 </div>
 
