@@ -1,18 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hey%20There%2C%20I'm%20Debashis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20lives%20on%20your%20computer%20☁️&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d2b6b,100:1e90ff&height=200&section=header&text=Hey%20There%2C%20I'm%20Debashis&fontSize=42&fontColor=00d9ff&animation=fadeIn&fontAlignY=40&desc=GOING%20%20CRAZY%20%20OVER%20TECH%20%F0%9F%92%BB&descAlignY=62&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%2F+Cloud+Developer;ML+%26+Data+Enthusiast;Always+Shipping+Something+New;Welcome+to+my+corner+of+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=1E90FF&background=00000000&center=true&vCenter=true&width=650&lines=Full-Stack+%2F+Cloud+Developer;ML+%26+Data+Enthusiast;Compiling...+Please+Wait...;Welcome+to+the+Matrix+%F0%9F%9F%A2" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/tashawn21/tashawn21/main/gifs/hacker.gif">
+## LETS TALK ABOUT ME ...
 
-## 💫 About Me
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td width="55%" valign="middle">
+
+```ansi
+[1;32m🔭  Currently building projects across web, cloud & ML[0m
+[1;34m🌱  Always leveling up my stack — new tools, new problems[0m
+[1;31m⚡  Fun fact: I debug better after 11 PM[0m
+[1;32m📫  Reach me through the socials below[0m
+```
 
 ```yaml
 name: Debashis
@@ -20,23 +29,29 @@ role: Software / Cloud Developer
 focus: [Full-Stack Development, Cloud Architecture, Machine Learning]
 currently_exploring: "new frameworks & AI tooling"
 fun_fact: "I debug better after 11 PM 🌙"
+status: "> compiling reality.exe"
 ```
 
-- 🔭 Currently building projects across web, cloud & ML
-- 🌱 Always leveling up my stack — new tools, new problems
-- ⚡ Fun fact: I debug better after 11 PM
-- 📫 Reach me through the socials below
+</td>
+<td width="45%" align="center" valign="middle">
 
-<br clear="right"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="260"/>
 
+</td>
+</tr>
+</table>
+
+---
 
 ## 🌐 Connect With Me
+
 <div align="center">
+
 <a href="https://www.instagram.com/_lr_rt?igsi=OHg1Y3U4dWQzZzc5" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=FF3B5C" />
 </a>
 <a href="https://www.linkedin.com/in/debashis-deb-b205ba349b" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1E90FF" />
 </a>
 
 </div>
@@ -100,22 +115,44 @@ fun_fact: "I debug better after 11 PM 🌙"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Debashis&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Debashis&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Debashis&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=1e90ff&icon_color=00ff41&text_color=ffffff&border_color=1e90ff&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debashis&hide_border=true&layout=compact&bg_color=0d1117&title_color=1e90ff&text_color=ffffff&border_color=1e90ff&cache_seconds=86400" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=Debashis&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Debashis&hide_border=true&background=0D1117&ring=1E90FF&fire=FF3131&currStreakLabel=1E90FF&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00FF41&cache_seconds=86400" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Debashis&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Debashis&hide_border=true&bg_color=0D1117&color=1E90FF&line=1E90FF&point=00FF41&area=true&area_color=1E90FF&cache_seconds=86400" alt="Activity Graph" width="90%"/>
+
+<sub><i>These four cards are served by free, shared public instances (not something in this file). When GitHub's API gets busy, that shared instance can return a broken image for a few minutes — <code>cache_seconds=86400</code> above tells it to serve a cached copy for 24h instead of re-fetching every load, which cuts crashes down a lot. If a card still breaks often, the permanent fix is deploying your own free copy of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> to Vercel (one-click "Deploy" button on that repo) and swapping the domain in the URL.</i></sub>
 
 </div>
 
 ---
 
-## 🏆 Trophy Case
+## 🏅 Achievements Gallery
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Debashis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4)
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://via.placeholder.com/300x200/0d1117/1E90FF?text=Certificate+1" width="100%"/>
+<br/><b>🔵 Certificate / Award Title</b>
+<br/><sub>Issuer · Year</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://via.placeholder.com/300x200/0d1117/00FF41?text=Certificate+2" width="100%"/>
+<br/><b>🟢 Certificate / Award Title</b>
+<br/><sub>Issuer · Year</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://via.placeholder.com/300x200/0d1117/FF3131?text=Certificate+3" width="100%"/>
+<br/><b>🔴 Certificate / Award Title</b>
+<br/><sub>Issuer · Year</sub>
+</td>
+</tr>
+</table>
+
+<sub><i>these three tiles are placeholders — upload your actual certificate/award screenshots to this repo (e.g. an <code>/assets/achievements/</code> folder) and swap each <code>via.placeholder.com</code> URL for <code>https://raw.githubusercontent.com/Debashis/&lt;repo&gt;/main/assets/achievements/your-image.png</code>. Add or remove <code>&lt;td&gt;</code> cells to match how many you have.</i></sub>
 
 </div>
 
@@ -125,23 +162,7 @@ fun_fact: "I debug better after 11 PM 🌙"
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎮 Take a Break — Play Neon Reflex
-
-GitHub doesn't let README files run live code, so I built this as a tiny standalone page instead. Tap the glowing tile before it fades — speed ramps up the longer you last.
-
-<a href="https://Debashis.github.io/Debashis/game.html" target="_blank">
-  <img src="https://img.shields.io/badge/▶_PLAY_NEON_REFLEX-00c6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f2027" />
-</a>
-
-<sub>⚙️ setup note: enable <b>GitHub Pages</b> on this repo (Settings → Pages → deploy from main), then the button above will go live at that URL.</sub>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -151,9 +172,9 @@ GitHub doesn't let README files run live code, so I built this as a tiny standal
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://i.pinimg.com/originals/47/5c/2d/475c2d90f80522543f729007d27e7dae.gif)
+![snake gif](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-<sub>💡 To activate this, add a GitHub Action that generates the snake SVG — see <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
+<sub>💡 To activate this for your own profile, add a GitHub Action that generates the snake SVG — see <a href="https://github.com/Platane/snk">Platane/snk</a>. Until the action runs at least once, this image may show as empty.</sub>
 
 </div>
 
@@ -161,9 +182,23 @@ GitHub doesn't let README files run live code, so I built this as a tiny standal
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=Debashis&icon=github&color=00c6ff&style=flat-square)](https://visitcount.itsvg.in)
+## 📄 Resume
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=120&section=footer" width="100%"/>
+<a href="REPLACE_WITH_YOUR_RESUME_LINK" target="_blank">
+  <img src="https://img.shields.io/badge/📄_CHECK_OUT_MY_RESUME-000000?style=for-the-badge&logoColor=1E90FF&labelColor=000000&color=1e90ff" />
+</a>
+
+<sub><i>swap <code>REPLACE_WITH_YOUR_RESUME_LINK</code> for a real link — a Google Drive "anyone with the link" share, a PDF committed to this repo (e.g. <code>/resume.pdf</code>), or a page on your portfolio site all work.</i></sub>
+
+</div>
+
+---
+
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=Debashis&icon=github&color=1e90ff&style=flat-square)](https://github.com/Debashis)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:000000&height=120&section=footer" width="100%"/>
 
 <sub>✨ Crafted with a touch of style — powered by <a href="https://gprm.itsvg.in">GPRM</a></sub>
 
