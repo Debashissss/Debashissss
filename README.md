@@ -151,7 +151,7 @@ GitHub doesn't let README files run live code, so I built this as a tiny standal
 
 ### 🐍 Contribution Snake
 
-![snake gif]()
+![snake gif](https://i.pinimg.com/originals/47/5c/2d/475c2d90f80522543f729007d27e7dae.gif)
 
 <sub>💡 To activate this, add a GitHub Action that generates the snake SVG — see <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
 
