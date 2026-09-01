@@ -126,24 +126,22 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="assets/achievements/oracle-genai-professional.png" width="100%"/>
+<img src="oracle-genai-professional.png" width="100%"/>
 <br/><b>🔵 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional</b>
 <br/><sub>Oracle University · Aug 26, 2025</sub>
 </td>
 <td align="center" width="33%">
-<img src="assets/achievements/oracle-ai-vector-search-professional.png" width="100%"/>
+<img src="oracle-ai-vector-search-professional.png" width="100%"/>
 <br/><b>🟢 Oracle AI Vector Search Certified Professional</b>
 <br/><sub>Oracle University · Sep 09, 2025</sub>
 </td>
 <td align="center" width="33%">
-<img src="assets/achievements/oracle-data-science-professional.png" width="100%"/>
+<img src="oracle-data-science-professional.png" width="100%"/>
 <br/><b>🔴 Oracle Cloud Infrastructure 2025 Certified Data Science Professional</b>
 <br/><sub>Oracle University · Sep 12, 2025</sub>
 </td>
 </tr>
 </table>
-
-<sub><i>these images live in <code>assets/achievements/</code> right next to this README — commit that folder along with README.md to your profile repo and they'll render exactly like this on your GitHub profile. Add more <code>&lt;td&gt;</code> cells the same way for future certifications.</i></sub>
 
 </div>
 
@@ -181,14 +179,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=Debashis&icon=github&color=1e90ff&style=flat-square)](https://github.com/Debashis)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:000000&height=120&section=footer" width="100%"/>
-
-<sub>✨ Crafted with a touch of style — powered by <a href="https://gprm.itsvg.in">GPRM</a></sub>
-
-</div>
