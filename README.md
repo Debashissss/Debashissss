@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hey%20There%2C%20I'm%20Debashis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20live%20on%20the%20cloud%20☁️&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hey%20There%2C%20I'm%20Debashis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20lives%20on%20your%20computer%20☁️&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%2F+Cloud+Developer;ML+%26+Data+Enthusiast;Always+Shipping+Something+New;Welcome+to+my+corner+of+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
@@ -31,7 +31,7 @@ fun_fact: "I debug better after 11 PM 🌙"
 
 
 ## 🌐 Connect With Me
-
+<div align="center">
 <a href="https://www.instagram.com/_lr_rt?igsi=OHg1Y3U4dWQzZzc5" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
@@ -151,7 +151,7 @@ GitHub doesn't let README files run live code, so I built this as a tiny standal
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Debashis/Debashis/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://i.pinimg.com/originals/47/5c/2d/475c2d90f80522543f729007d27e7dae.gif)
 
 <sub>💡 To activate this, add a GitHub Action that generates the snake SVG — see <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
 
