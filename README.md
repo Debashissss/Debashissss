@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🤖 Currently Building...
+## 🤖 WHERE AM I CURRENTLY ? ...
 
 <table cellpadding="15" cellspacing="0">
 <tr>
@@ -18,10 +18,10 @@
 
 ### I turn blank files into things that run — one piece at a time, like a robot on an assembly line.
 
-- 🔭&nbsp;&nbsp;Building across web, cloud & ML
-- 🌱&nbsp;&nbsp;Always leveling up my stack
-- ⚡&nbsp;&nbsp;Best code happens after 11 PM
-- 📫&nbsp;&nbsp;Let's connect below
+- 🔭&nbsp;&nbsp;planning to build a multi modal Ai platform
+- 🌱&nbsp;&nbsp;Always leveling up my stack into AI,Ml,Gen ai
+- ⚡&nbsp;&nbsp;Best code happens for me after 11 PM
+- 📫&nbsp;&nbsp;Finding my profile intresting??  
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -34,7 +34,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me for better conversations 
 
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 Techs Im familiar with..
 
 <div align="center">
 
@@ -102,7 +102,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Me at 3am when code doesn't work..
 
 <div align="center">
 
@@ -113,7 +113,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debashis&hide_border=true&bg_color=0D1117&color=1E90FF&line=1E90FF&point=00FF41&area=true&area_color=1E90FF&cache_seconds=86400" alt="Activity Graph" width="90%"/>
 
-<sub><i>These four cards are served by free, shared public instances (not something in this file). When GitHub's API gets busy, that shared instance can return a broken image for a few minutes — <code>cache_seconds=86400</code> above tells it to serve a cached copy for 24h instead of re-fetching every load, which cuts crashes down a lot. If a card still breaks often, the permanent fix is deploying your own free copy of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> to Vercel (one-click "Deploy" button on that repo) and swapping the domain in the URL.</i></sub>
+
 
 </div>
 
