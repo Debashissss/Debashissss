@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🤖 WHERE AM I CURRENTLY ? ...
+## 🤖 WHAT AM I DOING CURRENTLY ? ...
 
 <table cellpadding="15" cellspacing="0">
 <tr>
