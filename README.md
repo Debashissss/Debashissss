@@ -18,7 +18,7 @@
 
 ### I turn blank files into things that run — one piece at a time, like a robot on an assembly line.
 
-- 🔭&nbsp;&nbsp;planning to build a multi modal Ai platform
+- 🔭&nbsp;&nbsp;Planning to build a multi modal Ai platform
 - 🌱&nbsp;&nbsp;Always leveling up my stack into AI,Ml,Gen ai
 - ⚡&nbsp;&nbsp;Best code happens for me after 11 PM
 - 📫&nbsp;&nbsp;Finding my profile intresting??  
