@@ -34,7 +34,7 @@
 
 ---
 
-## 🌐 Connect With Me for better conversations 
+## 🌐 Connect With Me for better conversations..
 
 <div align="center">
 
